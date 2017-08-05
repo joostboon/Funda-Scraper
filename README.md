@@ -16,7 +16,7 @@ NB - inside the custom_page folder you will find a scraper that allows to scrape
 
 Example of the resulting dataframe:
 
-'''
+```
       city     link                                               price
 0   Amsterdam  http://www.funda.nl/koop/amsterdam/appartement...  497500
 1   Amsterdam  http://www.funda.nl/koop/amsterdam/huis-858086...  685000
@@ -40,7 +40,7 @@ Example of the resulting dataframe:
 3   1106 WG
 4   1024 EZ
 5   1016 TB
-'''
+```
 
 #### Output mapped in Tableau for the city of Amsterdam (price / square meters of surface)
 ![alt text](https://raw.githubusercontent.com/Weesper1985/Funda-Scraper/master/Sheet.png)
